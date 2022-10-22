@@ -1,0 +1,11 @@
+package com.zc.git;
+
+/**
+ * @author zheng.javagodfather
+ * @create 2022-10-23 4:17
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello,git1");
+    }
+}
